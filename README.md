@@ -10,7 +10,9 @@ This project provides weather forecasting for Bangladesh using historical weathe
 
 ## 📊 Sample Output
 ![Sample Weather Forecast](https://github.com/user-attachments/assets/f454e8ad-0536-4602-b1fd-eb201a3b8858)
-(https://github.com/user-attachments/assets/e59a413c-7a9d-4634-b44e-6f44fa6cd624)
+![17501716059182752258554425528672](https://github.com/user-attachments/assets/8e862ded-f92d-4b37-aa72-1a0f22a14d85)
+![17501713978923474674159982778500](https://github.com/user-attachments/assets/e3090a52-487a-488e-a8d0-b87656f808da)
+
 
 
 ## 🛠️ Tools & Technologies
