@@ -9,7 +9,8 @@ This project provides weather forecasting for Bangladesh using historical weathe
 - Provide weather recommendations (umbrella alerts, heat warnings, etc.)
 
 ## 📊 Sample Output
-![Sample Weather Forecast](![17501704717691574182624111157575](https://github.com/user-attachments/assets/e59a413c-7a9d-4634-b44e-6f44fa6cd624)
+![Sample Weather Forecast]![17501710136151038844616605483127](https://github.com/user-attachments/assets/f454e8ad-0536-4602-b1fd-eb201a3b8858)
+[17501704717691574182624111157575](https://github.com/user-attachments/assets/e59a413c-7a9d-4634-b44e-6f44fa6cd624)
 
 
 ## 🛠️ Tools & Technologies
