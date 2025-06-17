@@ -68,7 +68,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📜 License
 This project is licensed under the MIT License.
-
----
-
-*Replace sample_output.png with an actual screenshot of your visualization when you upload to GitHub.*
